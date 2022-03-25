@@ -1,4 +1,4 @@
-package com.example.currency.exchange.test;
+package com.example.currency.exchange;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -8,7 +8,6 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
 import java.util.ArrayList;
-import java.util.Date;
 
 @Service
 public class RestCurrencyService {

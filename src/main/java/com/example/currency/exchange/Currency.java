@@ -1,4 +1,4 @@
-package com.example.currency.exchange.test;
+package com.example.currency.exchange;
 
 public class Currency {
     public String getDateOfTrade() {

@@ -1,4 +1,4 @@
-package com.example.currency.exchange.test;
+package com.example.currency.exchange;
 
 import org.json.JSONArray;
 import org.json.JSONException;
